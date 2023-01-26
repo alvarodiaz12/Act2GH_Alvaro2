@@ -4,7 +4,7 @@ public class Array {
 
   public static void main(String[] args) {
     
-    final int LONGITUDNUMEROS = 20;
+    final int LONGITUDNUMEROS = 30;
     final int NUMEROMINIMO = 1;
     final int NUMEROMAXIMO= 10;
    
